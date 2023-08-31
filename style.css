@@ -1,0 +1,163 @@
+body {
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-around;
+    height: 45px;
+    width: 100%;
+    color: rgb(212, 68, 97);
+  }
+  ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    padding: 10px;
+    font-size: 10px;
+    font-weight: bold;
+  }
+  h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(212, 68, 97);
+    margin-top: 50px;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    text-align: center;
+    font-size: 12px;
+  }
+  .styled {
+    display: flex;
+    margin: auto;
+    background-color: rgb(212, 68, 97);
+    color: rgb(255, 255, 255);
+    width: 100px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    margin-bottom: 50px;
+  }
+  .img1 {
+    margin: auto;
+    height: 350px;
+    width: 750px;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 25px;
+  }
+  .paragraphe {
+    display: flex;
+    flex-direction: column;
+  }
+  .text1 {
+    background-color: rgb(235, 232, 232);
+  }
+  h3 {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 35px;
+    margin-bottom: 30px;
+  }
+  .class1 {
+    display: flex;
+    grid-template: 1fr/1fr 1fr;
+    width: 70%;
+    height: 200px;
+    margin-left: 50px;
+    gap: 15px;
+    margin-bottom: 5px;
+  }
+  .class2 {
+    display: flex;
+    grid-template: 1fr/1fr 1fr;
+    width: 70%;
+    height: 200px;
+    margin-left: 50px;
+    gap: 15px;
+    margin-bottom: 5px;
+  }
+  .class3 {
+    display: flex;
+    grid-template: 1fr/1fr 1fr;
+    width: 70%;
+    height: 200px;
+    margin-left: 50px;
+    gap: 15px;
+    margin-bottom: 5px;
+  }
+  h4 {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 35px;
+    margin-bottom: 30px;
+  }
+  
+  .gr-galerie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+ 
+  }
+  .baba-franchou {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .frachou {
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #888a85;
+  }
+  .testimonial {
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+  
+  .rating {
+    font-size: 24px;
+    margin-bottom: 5px;
+    color:#ce5c00 ;
+  }
+  
+  .date {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 5px;
+  }
+  
+  .testimonial-text {
+    font-size: 14px;
+  }
+  .adress{
+      display: flex;
+      justify-content: start;
+      margin-left: 5px;
+      color: rgb(207, 89, 112);
+
+  }
+  button{
+      display: flex;justify-content: center;
+  }
+ 
